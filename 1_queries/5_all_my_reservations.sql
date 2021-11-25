@@ -1,3 +1,4 @@
+-- Show all reservations for a user:
 -- Select all columns from the reservations table, all columns from the properties table, and the average rating of the property.
 -- The reservations will be for a single user, so use 1 for the user_id.
 -- Order the results from the earliest start_date to the most recent start_date.
